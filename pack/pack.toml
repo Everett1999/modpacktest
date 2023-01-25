@@ -1,0 +1,13 @@
+name = "VS2 Test Pack"
+author = "ElviraSalazar"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f9eb622571437e28744b6888c2bed36d50f38eba2731781117a0d844ac543df0"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"

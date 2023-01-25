@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d2eda0ea3575fb11d212d9c9f5e56d33ef48c03aaa32f5741bca824673624bc4"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "846870f1cf433219a6d851be27091b5dc6946b94c81b6575939a32fd55b0c5ab"
+metafile = true
+
+[[files]]
+file = "mods/eureka.toml"
+hash = "d1fa51104aa14327caec496f76678b4daf5a5a7dbeb297cc209ae02112bb23cd"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "94609bc33550bb64bdb280d53156767318407a4a62d2273b6f9d0a0f40396e9a"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "660a7415900b60424e3a731706f4cb8eab47021b1199f2137c53013cdde6211d"
+metafile = true
+
+[[files]]
+file = "mods/takeoff.toml"
+hash = "14c464ff373fe3368843098cef23831875534cf12958fc50f1174cf84a164349"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-2.toml"
+hash = "b1e225eb7ba8b5384e475b1d3449bcc511f593291c62f1eb9e2b9e1968bc1a1c"
+metafile = true
