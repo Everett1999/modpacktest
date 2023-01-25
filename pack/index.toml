@@ -16,11 +16,6 @@ hash = "20dcd91f3fa73c34bb4e01eb7659a8f2ccc0b55e462dd2879ab2978c6394026c"
 metafile = true
 
 [[files]]
-file = "mods/eureka.toml"
-hash = "d1fa51104aa14327caec496f76678b4daf5a5a7dbeb297cc209ae02112bb23cd"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
 metafile = true
@@ -46,16 +41,6 @@ hash = "7b08cfdaa6034db4ae06376fdfa53361e0032f8deb5c06a1ed97a92080b23582"
 metafile = true
 
 [[files]]
-file = "mods/takeoff.toml"
-hash = "14c464ff373fe3368843098cef23831875534cf12958fc50f1174cf84a164349"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies-2.pw.toml"
 hash = "cabe991010acc583f59fbca68209c4bb571341151a2c5f40e35327f8a6b5113b"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies-2.toml"
-hash = "b1e225eb7ba8b5384e475b1d3449bcc511f593291c62f1eb9e2b9e1968bc1a1c"
 metafile = true
