@@ -3,7 +3,7 @@ filename = "takeoff-forge-1.0.0-beta1+308678c5c5.jar"
 side = "both"
 
 [download]
-url = ""
+url = "https://github.com/Everett1999/modpacktest/raw/main/pack/mods/takeoff-forge-1.0.0-beta1%2B308678c5c5.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

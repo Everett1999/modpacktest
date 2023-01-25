@@ -3,7 +3,7 @@ filename = "eureka-forge-1.1.0-beta6+6be3cbc9fa.jar"
 side = "both"
 
 [download]
-url = ""
+url = "https://github.com/Everett1999/modpacktest/raw/main/pack/mods/eureka-forge-1.1.0-beta6%2B6be3cbc9fa.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
