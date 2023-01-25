@@ -1,0 +1,7 @@
+name = "Valkyrien Skies 2"
+filename = "valkyrienskies-118-forge-2.1.0-beta.10+d84531555f.jar"
+
+[download]
+url = "https://github.com/Everett1999/modpacktest/raw/main/pack/mods/valkyrienskies-118-forge-2.1.0-beta.10%2Bd84531555f.jar"
+hash-format = "sha1"
+hash = "a27e38dd9fa487399ba3cce6a7d30096071b2261"

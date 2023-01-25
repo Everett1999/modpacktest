@@ -1,0 +1,7 @@
+name = "Takeoff"
+filename = "takeoff-forge-1.0.0-beta1+308678c5c5.jar"
+
+[download]
+url = "https://github.com/Everett1999/modpacktest/raw/main/pack/mods/takeoff-forge-1.0.0-beta1%2B308678c5c5.jar"
+hash-format = "sha1"
+hash = "731edc1f295fc41c1795d74c5dbd37fa50ded9ab"

@@ -1,0 +1,7 @@
+name = "Eureka"
+filename = "eureka-forge-1.1.0-beta6+6be3cbc9fa.jar"
+
+[download]
+url = "https://github.com/Everett1999/modpacktest/raw/main/pack/mods/eureka-forge-1.1.0-beta6%2B6be3cbc9fa.jar"
+hash-format = "sha1"
+hash = "224fae4875be455c62d3df2e97347f9985807e7d"
